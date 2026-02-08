@@ -263,10 +263,11 @@ I’m not here to be fleeting—I’m here because I choose to stay with you.”
       
         <div class="notes">
             <!-- TXT  -->
-            I want you to know that for as long as I'm alive, You will always be loved
-            because I have never loved anyone or anything as deeply as I love you..
-            and I mean that with my entire heart and my entire soul.<br>
-            
+            A little reassurance for our future:
+
+I appreciate you, I respect you, I trust you, and I love you more than time or distance. I'm completely yours, unconditionally, irrevocably, and every day that ends in you. I wouldn't have it any other way.
+
+I love us, and I love being yours.
             — I love you with everything that I have. happy valentines babi..
         </div>
         
