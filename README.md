@@ -17,7 +17,7 @@
 
     .book {
         width: 340px;
-        height: 510px;
+        height: 500px;
         perspective: 2000px;
         position: relative;
     }
@@ -183,12 +183,10 @@ I’m not here to be fleeting—I’m here because I choose to stay with you.”
 
         <div class="notes">
             <!-- txt -->
-            these are moments that I wont forget.
-            moments that I will treasure for the rest of my life. 
-            the kind that will make me smile every time ma remember nako.
-            the kind na would make my heart melt.<br><br>
-            
-            —precious moments that means a lot to me.
+            these moments talaga has a special place in my heart, because these are our firsts... our first night together.. 😶
+            our first dinner na ikaw ang nag luto, and my first tattoo? char, but that was really cute, it made me feel special, like,
+            for me lang, parang it was a declaration that I am yours (which is TRUE btw) nevertheless, thats how I took it... 
+            —so yeah..these moments mean a lot to me... it's a very special moments, Though.. I wished we could've taken more pictures together... y'know, it'll be in another few years before we meet each other again.. AND surely, I would miss you so much ☹️
         </div>
     </div>
 
@@ -215,10 +213,8 @@ I’m not here to be fleeting—I’m here because I choose to stay with you.”
 
         <div class="notes">
             <!-- txt -->
-            Even in these random captured moments, I keep finding myself looking at you, without even realizing it.
-            I really thought talaga na sa movie lang yan mag slowmo-slowmo na vison nayan eh.. pero it happens in reality din pala..
-            
-            
+            I keep finding myself looking at you, without even realizing it.
+            I really thought talaga na sa movie lang yan mag slowmo-slowmo na vison nayan eh.. pero it happens in reality din pala.. I could still vividly remember how fast my heartbeat was when we had that breakfast together, and how nervous I was, but now... I could hardly stop myself from meeting you every day.. if i could, siguro palagi lang ako nakadikit sayo hahaa
             
             
         </div>
@@ -246,10 +242,10 @@ I’m not here to be fleeting—I’m here because I choose to stay with you.”
         </div>
 
         <div class="notes">
-            These are the moments when I could say na,<br> 
+            
             “This is the place where I want to be… sa tabi mo.”
-            This feeling, this moment, this closeness... is the place where I want to stay forever,<br>
-            the destination I want to reach, and the home where I find my comfort.
+            This feeling, this moments, this closeness... is the place where I want to stay forever,<br>
+            the destination I want to reach, and the home where I could rest... my safe place..
         </div>
     </div>
 
@@ -263,7 +259,7 @@ I’m not here to be fleeting—I’m here because I choose to stay with you.”
       
         <div class="notes">
             <!-- TXT  -->
-            A little reassurance for our future:
+            I want you to know that <br>
 
 I appreciate you, I respect you, I trust you, and I love you more than time or distance. I'm completely yours, unconditionally, irrevocably, and every day that ends in you. I wouldn't have it any other way.
 
